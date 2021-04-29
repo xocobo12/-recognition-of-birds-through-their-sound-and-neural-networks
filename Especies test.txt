@@ -1,0 +1,39 @@
+Chilean Tinamou 10
+Coscoroba Swan 10
+Black-necked Swan 10
+Andean Goose 12
+Upland Goose 12
+Chiloe Wigeon 14
+King Penguin 12
+Elliot's Storm Petrel 11
+Pink-footed Shearwater 17
+Black-faced Ibis 14
+Chilean Hawk 10
+Black Rail 13
+Austral Rail 15
+Plumbeous Rail 25
+Red-gartered Coot 11
+Giant Coot 15
+Magellanic Oystercatcher 11
+Blackish Oystercatcher 12
+American Oystercatcher 17
+White-backed Stilt 10
+Southern Lapwing 22
+Rufous-chested Plover 18
+Diademed Sandpiper-Plover 10
+Whimbrel 19
+South American Snipe 21
+Brown-hooded Gull 11
+Kelp Gull 17
+West Peruvian Dove 12
+Lesser Horned Owl 11
+Rufous-legged Owl 21
+Austral Pygmy Owl 29
+Giant Hummingbird 15
+Green-backed Firecrown 28
+Juan Fernandez Firecrown 11
+Striped Woodpecker 27
+Chilean Flicker 15
+Andean Flicker 11
+Magellanic Woodpecker 15
+Chimango Caracara 17
